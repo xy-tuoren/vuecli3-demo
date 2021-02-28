@@ -52,6 +52,6 @@
   }
   .tab-bar-item p {
     font-size: 14px;
-    height: 18px;
+    height: 14px;
   }
 </style>
